@@ -1,4 +1,4 @@
 def call() {
-  sh 'echo Hi changes made 
+  sh 'echo Hi changes made '
 
 }
